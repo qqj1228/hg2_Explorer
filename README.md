@@ -1,4 +1,4 @@
-# Text_Localize_Tool
+# hg2_Explorer
 
 ## 该工具用于提取/导入PSP流行之神2游戏资源DATA.DAT文件
 
